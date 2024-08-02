@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 
 ## The programming languages ​​that are used
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" witdh=40 height=40 style="margin: 0 10px;"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width=40 height=40 style="margin: 0 10px;"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" width=40 height=40 style="margin: 0 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" witdh=50 height=50 style="margin: 0 20px;"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width=50 height=50 style="margin: 0 20px;"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" width=50 height=50 style="margin: 0 20px;" />
 </div>
 
 ## I'm learning

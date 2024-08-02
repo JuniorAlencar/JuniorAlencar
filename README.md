@@ -13,6 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hi, my name is Júnior Alencar, I am Brazilian and PhD student in Physics in Federal University of Ceara.
+
+- 🔭 I’m currently working on Boltzmann Machine
+- 🌱 I have carried out work on complex networks, with an emphasis on networks involving preferential attachment mechanisms.
+
 <div>
 <a href="https://github.com/junioralencar">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
